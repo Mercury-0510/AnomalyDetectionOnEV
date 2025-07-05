@@ -15,5 +15,4 @@
 数据统计：数据采样频率为10秒/帧，数据样本共计约8.5亿帧，数据体量：压缩前约581GB，压缩后约72GB。  
 
 数据集介绍：http://ivstskl.changan.com.cn/?p=2697  
-下载地址：
-https://v2.fangcloud.com/share/848f5fbaa3d4de15fccdc008fd
+下载地址：https://v2.fangcloud.com/share/848f5fbaa3d4de15fccdc008fd
