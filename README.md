@@ -126,7 +126,7 @@ ModernTCN-classification/
 │   └── {setting}/
 │       ├── file_level_predictions_predict.csv                      # 文件级预测结果
 │       └── file_level_predictions_predict_abnormal_files.txt       # 异常文件清单
-├── plots/               # 可视化结果
+├── plots/                      # 可视化结果
 │   └── {setting}/
 │       ├── training_curves.png                                     # 训练曲线
 │       └── confusion_matrix.png                                    # 混淆矩阵
