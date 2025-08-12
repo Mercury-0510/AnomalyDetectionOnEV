@@ -40,7 +40,7 @@ cd ./ModernTCN-classification
 sh scripts/data_process.sh
 ```
 或直接运行`./run_data.py`，内含三种任务可选：  
-- `--fft`:使用快速傅里叶变换进行数据扰动，用以扩充故障数据解决分类不平衡问题，从`./data_preprocessor/fft_list.txt`中获取需要扩充的文件目录     
+- `--fft`:使用快速傅里叶变换进行数据扰动，用以扩充故障数据解决分类不平衡问题   
 - `--denoise`:进行平滑，处理原数据中出现的异常时间点  
 - `--transform`:将原文件csv池化、分段为UEA数据集标准格式`EV_xx.ts`，用于模型训练
 
@@ -126,7 +126,7 @@ ModernTCN-classification/
 │   └── {setting}/
 │       ├── file_level_predictions_predict.csv                      # 文件级预测结果
 │       └── file_level_predictions_predict_abnormal_files.txt       # 异常文件清单
-├── plots/                      # 可视化结果
+├── plots/               # 可视化结果
 │   └── {setting}/
 │       ├── training_curves.png                                     # 训练曲线
 │       └── confusion_matrix.png                                    # 混淆矩阵

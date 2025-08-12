@@ -5,7 +5,7 @@ python -u run.py \
 --data UEA \
 --model_id EV \
 --model ModernTCN \
---random_seed 2025 \
+--random_seed 10492 \
 --ffn_ratio 2 \
 --patch_size 64 \
 --patch_stride 32 \
@@ -15,12 +15,12 @@ python -u run.py \
 --dims 64 \
 --head_dropout 0.0 \
 --dropout 0.5 \
---class_dropout 0.3 \
+--class_dropout 0.2 \
 --threshold 0.3 \
 --itr 1 \
 --learning_rate 0.0005 \
 --batch_size 64 \
---train_epochs 200 \
+--train_epochs 100 \
 --patience 50 \
 --des Exp \
 --use_multi_scale True \

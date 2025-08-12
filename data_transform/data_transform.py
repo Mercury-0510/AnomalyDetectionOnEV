@@ -427,14 +427,25 @@ class EVDataTransformer:
         results = []
         for file_name, info in file_results.items():
             predictions = info['predictions']
-            # 使用指定阈值决定文件标签
-            abnormal_ratio = sum(predictions) / len(predictions)
-            predicted_label = 1 if abnormal_ratio > threshold else 0
+            sample_count = len(predictions)
+            abnormal_count = sum(predictions)
+            abnormal_ratio = abnormal_count / sample_count
+            
+            # 综合考虑异常占比和样本数量的简单判断逻辑
+            if sample_count <= 2:
+                # 样本数很少时，需要所有样本都异常才判定为异常文件
+                predicted_label = 1 if abnormal_ratio == 1.0 else 0
+            elif sample_count <= 5:
+                # 样本数较少时，需要更高的异常占比
+                predicted_label = 1 if abnormal_ratio >= 0.8 else 0
+            else:
+                # 样本数较多时，使用指定阈值
+                predicted_label = 1 if abnormal_ratio > threshold else 0
             
             result = {
                 'file': file_name,
-                'sample_count': len(predictions),
-                'abnormal_sample_count': sum(predictions),
+                'sample_count': sample_count,
+                'abnormal_sample_count': abnormal_count,
                 'abnormal_sample_ratio': abnormal_ratio,
                 'predicted_label': predicted_label,
                 'is_abnormal_file': 'Yes' if predicted_label == 1 else 'No'

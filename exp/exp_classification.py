@@ -243,6 +243,12 @@ class Exp_Classification(Exp_Basic):
         probs = torch.nn.functional.softmax(preds)  # (total_samples, num_classes) est. prob. for each class and sample
         predictions = torch.argmax(probs, dim=1).cpu().numpy()  # (total_samples,) int class index for each sample
         trues = trues.flatten().cpu().numpy()
+        
+        # 打印预测结果
+        print('Predictions:', predictions)
+        print('Predictions shape:', predictions.shape)
+        print('Unique predictions:', np.unique(predictions, return_counts=True))
+        
         accuracy = cal_accuracy(predictions, trues)
         
         # 计算F1 score
@@ -264,6 +270,10 @@ class Exp_Classification(Exp_Basic):
         # 绘制混淆矩阵
         class_names = ['Normal', 'Abnormal']  # 根据你的实际类别名称调整
         self._plot_confusion_matrix(trues, predictions, class_names, plot_path, setting)
+        
+        # 文件级别验证
+        self._analyze_file_level_predictions(predictions, setting, plot_path, 'test', threshold)
+
         
         return accuracy, f1_class1
 

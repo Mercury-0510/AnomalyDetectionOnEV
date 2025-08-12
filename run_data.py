@@ -12,7 +12,13 @@ def main():
     
     # 通用参数
     parser.add_argument('--target_channels', nargs='+', 
-                        default=['SUM_VOLTAGE', 'SUM_CURRENT', 'SOC', 'MAX_CELL_VOLT', 'MIN_CELL_VOLT', 'MAX_TEMP', 'MIN_TEMP'],
+                        default=['SPEED', 
+                                 'SUM_MILE_AGE', 
+                                 'SUM_VOLTAGE', 
+                                 'SUM_CURRENT', 
+                                 'SOC', 
+                                 'MAX_TEMP'
+                                 ],
                         help='目标处理通道列表')
     
     # FFT扰动相关参数
@@ -44,9 +50,9 @@ def main():
     transform_group.add_argument('--predict_folder', type=str, default='all_datasets/predict_datasets_clean', help='预测数据文件夹路径')
     transform_group.add_argument('--predict_filename', type=str, default='EV_PRE.ts', help='预测数据输出文件名')
     transform_group.add_argument('--sample_size', type=int, default=20000, help='每个样本使用的时间点数')
-    transform_group.add_argument('--pool_size', type=int, default=10, help='池化窗口大小')
-    transform_group.add_argument('--max_samples_per_file', type=int, default=10, help='每个正常文件最多提取的样本数')
-    transform_group.add_argument('--max_samples_per_abnormal_file', type=int, default=10, help='每个异常文件最多提取的样本数')
+    transform_group.add_argument('--pool_size', type=int, default=20, help='池化窗口大小')
+    transform_group.add_argument('--max_samples_per_file', type=int, default=15, help='每个正常文件最多提取的样本数')
+    transform_group.add_argument('--max_samples_per_abnormal_file', type=int, default=15, help='每个异常文件最多提取的样本数')
     
     args = parser.parse_args()
     
