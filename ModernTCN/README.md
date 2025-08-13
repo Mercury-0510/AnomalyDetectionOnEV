@@ -129,8 +129,6 @@ ModernTCN-classification/
 ├── plots/               # 可视化结果
 │   └── {setting}/
 │       ├── training_curves.png                                     # 训练曲线
-│       ├── file_level_predictions_test_abnormal_files.txt          # 验证集异常文件清单
-│       ├── file_level_predictions_test.csv                         # 验证集文件级预测结果
 │       └── confusion_matrix.png                                    # 混淆矩阵
 ├── run_data.py                 # 数据处理脚本
 ├── run.py                      # 模型运行脚本

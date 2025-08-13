@@ -437,7 +437,7 @@ class EVDataTransformer:
                 predicted_label = 1 if abnormal_ratio == 1.0 else 0
             elif sample_count <= 5:
                 # 样本数较少时，需要更高的异常占比
-                predicted_label = 1 if abnormal_ratio >= 0.8 else 0
+                predicted_label = 1 if abnormal_ratio >= 0.7 else 0
             else:
                 # 样本数较多时，使用指定阈值
                 predicted_label = 1 if abnormal_ratio > threshold else 0
@@ -471,7 +471,71 @@ class EVDataTransformer:
                 f.write(f"{filename}\n")
         print(f"预测为故障的文件共 {len(abnormal_file_names)} 个，已保存到: {abnormal_txt_path}")
         
+        # 生成可视化图例
+        self._plot_file_sample_predictions(file_results, output_path)
+        
         return results_df
+
+    def _plot_file_sample_predictions(self, file_results, output_path):
+        """
+        生成文件样本预测结果的可视化图例
+        
+        Args:
+            file_results: 文件预测结果字典
+            output_path: CSV输出路径，用于生成图片路径
+        """
+        import matplotlib.pyplot as plt
+        import matplotlib.patches as patches
+        
+        files_to_show = list(file_results.keys())
+        
+        if not files_to_show:
+            return
+            
+        fig, ax = plt.subplots(figsize=(12, len(files_to_show) * 0.6))
+        
+        # 设置颜色
+        normal_color = '#4CAF50'  # 绿色
+        abnormal_color = '#F44336'  # 红色
+        
+        for i, file_name in enumerate(files_to_show):
+            predictions = file_results[file_name]['predictions']
+            y_pos = len(files_to_show) - i - 1
+            
+            # 绘制每个样本的条状块
+            for j, pred in enumerate(predictions):
+                color = abnormal_color if pred == 1 else normal_color
+                rect = patches.Rectangle((j, y_pos), 1, 0.8, 
+                                       linewidth=0.5, edgecolor='white', 
+                                       facecolor=color)
+                ax.add_patch(rect)
+            
+            # 添加文件名标签
+            ax.text(-0.5, y_pos + 0.4, file_name[:30] + '...' if len(file_name) > 30 else file_name, 
+                   ha='right', va='center', fontsize=8)
+        
+        # 设置图形属性
+        ax.set_xlim(-0.5, max(len(file_results[f]['predictions']) for f in files_to_show) + 0.5)
+        ax.set_ylim(-0.5, len(files_to_show))
+        ax.set_xlabel('Sample Index')
+        ax.set_title('File Sample Prediction Results\nGreen: Normal  Red: Abnormal')
+        
+        # 移除y轴刻度
+        ax.set_yticks([])
+        
+        # 添加图例
+        normal_patch = patches.Patch(color=normal_color, label='Normal Sample')
+        abnormal_patch = patches.Patch(color=abnormal_color, label='Abnormal Sample')
+        ax.legend(handles=[normal_patch, abnormal_patch], loc='upper right')
+        
+        plt.tight_layout()
+        
+        # 保存图片
+        plot_path = output_path.replace('.csv', '_sample_predictions.png')
+        plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+        plt.close()
+        
+        print(f"样本预测可视化图已保存到: {plot_path}")
 
     def create_header(self):
         """创建.ts文件头部"""

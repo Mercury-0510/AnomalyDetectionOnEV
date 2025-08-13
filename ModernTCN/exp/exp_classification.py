@@ -238,16 +238,10 @@ class Exp_Classification(Exp_Basic):
 
         preds = torch.cat(preds, 0)
         trues = torch.cat(trues, 0)
-        print('test shape:', preds.shape, trues.shape)
 
         probs = torch.nn.functional.softmax(preds)  # (total_samples, num_classes) est. prob. for each class and sample
         predictions = torch.argmax(probs, dim=1).cpu().numpy()  # (total_samples,) int class index for each sample
         trues = trues.flatten().cpu().numpy()
-        
-        # 打印预测结果
-        print('Predictions:', predictions)
-        print('Predictions shape:', predictions.shape)
-        print('Unique predictions:', np.unique(predictions, return_counts=True))
         
         accuracy = cal_accuracy(predictions, trues)
         
