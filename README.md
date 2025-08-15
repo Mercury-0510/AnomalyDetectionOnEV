@@ -119,6 +119,7 @@ ModernTCN-classification/
 ├── utils/                      # 工具函数
 │   └── ...
 ├── scripts/                    # 运行脚本
+│   ├── predict.sh              # 预测脚本
 │   ├── data_process.sh         # 数据处理脚本
 │   └── run_classification.sh   # 分类训练脚本
 ├── all_datasets/EV/            # 数据集目录及样本映射
