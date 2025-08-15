@@ -1,0 +1,27 @@
+python -u run.py \
+--task_name classification \
+--is_training 0 \
+--root_path ./all_datasets/EV/ \
+--data UEA \
+--model_id EV \
+--model ModernTCN \
+--random_seed 2025 \
+--ffn_ratio 2 \
+--patch_size 128 \
+--patch_stride 16 \
+--num_blocks 2 \
+--large_size 91 \
+--small_size 5 \
+--dims 64 \
+--head_dropout 0.05 \
+--dropout 0.5 \
+--class_dropout 0.25 \
+--threshold 0.25 \
+--itr 1 \
+--learning_rate 0.0005 \
+--batch_size 128 \
+--train_epochs 100 \
+--patience 30 \
+--des Exp \
+--use_multi_scale True \
+--do_predict

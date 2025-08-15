@@ -1,0 +1,2756 @@
+{
+  "0": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "1": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "2": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "3": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "4": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "5": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "6": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "7": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "8": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "9": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "10": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "11": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "12": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "13": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "14": {
+    "file": "JBGS25000005252.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "15": {
+    "file": "JBGS25000003041.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "16": {
+    "file": "JBGS25000003041.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "17": {
+    "file": "JBGS25000003041.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "18": {
+    "file": "JBGS25000003041.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "19": {
+    "file": "JBGS25000003041.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "20": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "21": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "22": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "23": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "24": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "25": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "26": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "27": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "28": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "29": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "30": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "31": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "32": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "33": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "34": {
+    "file": "JBGS25000002855.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "35": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "36": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "37": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "38": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "39": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "40": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "41": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "42": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "43": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "44": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "45": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "46": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "47": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "48": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "49": {
+    "file": "JBGS25000006018.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "50": {
+    "file": "JBGS25000009894.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "51": {
+    "file": "JBGS25000009894.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "52": {
+    "file": "JBGS25000009894.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "53": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "54": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "55": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "56": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "57": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "58": {
+    "file": "JBGS25000004588.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "59": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "60": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "61": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "62": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "63": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "64": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "65": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "66": {
+    "file": "JBGS25000007053.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "67": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "68": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "69": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "70": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "71": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "72": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "73": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "74": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "75": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "76": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "77": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "78": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "79": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "80": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "81": {
+    "file": "JBGS25000005091.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "82": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "83": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "84": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "85": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "86": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "87": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "88": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "89": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "90": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "91": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "92": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "93": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "94": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "95": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "96": {
+    "file": "JBGS25000007771.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "97": {
+    "file": "JBGS25000007600.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "98": {
+    "file": "JBGS25000007600.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "99": {
+    "file": "JBGS25000007600.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "100": {
+    "file": "JBGS25000007600.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "101": {
+    "file": "JBGS25000007600.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "102": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "103": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "104": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "105": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "106": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "107": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "108": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "109": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "110": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "111": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "112": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "113": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "114": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "115": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "116": {
+    "file": "JBGS25000004711.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "117": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "118": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "119": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "120": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "121": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "122": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "123": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "124": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "125": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "126": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "127": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "128": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "129": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "130": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "131": {
+    "file": "JBGS25000005039.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "132": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "133": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "134": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "135": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "136": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "137": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "138": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "139": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "140": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "141": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "142": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "143": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "144": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "145": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "146": {
+    "file": "JBGS25000001706.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "147": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "148": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "149": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "150": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "151": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "152": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "153": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "154": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "155": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "156": {
+    "file": "JBGS25000007349.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "157": {
+    "file": "JBGS25000004304.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "158": {
+    "file": "JBGS25000004304.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "159": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "160": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "161": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "162": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "163": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "164": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "165": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "166": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "167": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "168": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "169": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "170": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "171": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "172": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "173": {
+    "file": "JBGS25000000002.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "174": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "175": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "176": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "177": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "178": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "179": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "180": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "181": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "182": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "183": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "184": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "185": {
+    "file": "JBGS25000005794.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "186": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "187": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "188": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "189": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "190": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "191": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "192": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "193": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "194": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "195": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "196": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "197": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "198": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "199": {
+    "file": "JBGS25000002074.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "200": {
+    "file": "JBGS25000001450.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "201": {
+    "file": "JBGS25000001450.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "202": {
+    "file": "JBGS25000001450.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "203": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "204": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "205": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "206": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "207": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "208": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "209": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "210": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "211": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "212": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "213": {
+    "file": "JBGS25000005848.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "214": {
+    "file": "JBGS25000001771.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "215": {
+    "file": "JBGS25000001771.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "216": {
+    "file": "JBGS25000001771.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "217": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "218": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "219": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "220": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "221": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "222": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "223": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "224": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "225": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "226": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "227": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "228": {
+    "file": "JBGS25000007855.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "229": {
+    "file": "JBGS25000009080.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "230": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "231": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "232": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "233": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "234": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "235": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "236": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "237": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "238": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "239": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "240": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "241": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "242": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "243": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "244": {
+    "file": "JBGS25000004616.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "245": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "246": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "247": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "248": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "249": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "250": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "251": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "252": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "253": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "254": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "255": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "256": {
+    "file": "JBGS25000008367.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "257": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "258": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "259": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "260": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "261": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "262": {
+    "file": "JBGS25000004923.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "263": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "264": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "265": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "266": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "267": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "268": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "269": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "270": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "271": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "272": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "273": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "274": {
+    "file": "JBGS25000005885.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "275": {
+    "file": "JBGS25000008167.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "276": {
+    "file": "JBGS25000008167.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "277": {
+    "file": "JBGS25000008167.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "278": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "279": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "280": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "281": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "282": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "283": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "284": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "285": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "286": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "287": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "288": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "289": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "290": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "291": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "292": {
+    "file": "JBGS25000003881.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "293": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "294": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "295": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "296": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "297": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "298": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "299": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "300": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "301": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "302": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "303": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "304": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "305": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "306": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "307": {
+    "file": "JBGS25000009425.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "308": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "309": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "310": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "311": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "312": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "313": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "314": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "315": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "316": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "317": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "318": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "319": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "320": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "321": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "322": {
+    "file": "JBGS25000001979.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "323": {
+    "file": "JBGS25000002622.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "324": {
+    "file": "JBGS25000002622.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "325": {
+    "file": "JBGS25000002622.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "326": {
+    "file": "JBGS25000002622.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "327": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "328": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "329": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "330": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "331": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "332": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "333": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "334": {
+    "file": "JBGS25000008187.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "335": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "336": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "337": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "338": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "339": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "340": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "341": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "342": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "343": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "344": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "345": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "346": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "347": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "348": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "349": {
+    "file": "JBGS25000003311.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "350": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "351": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "352": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "353": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "354": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "355": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "356": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "357": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "358": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "359": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "360": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "361": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "362": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "363": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "364": {
+    "file": "JBGS25000009069.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "365": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "366": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "367": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "368": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "369": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "370": {
+    "file": "JBGS25000004435.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "371": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "372": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "373": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "374": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "375": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "376": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "377": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "378": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "379": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "380": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "381": {
+    "file": "JBGS25000002678.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "382": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "383": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "384": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "385": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "386": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "387": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "388": {
+    "file": "JBGS25000007863.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "389": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "390": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "391": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "392": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "393": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "394": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "395": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "396": {
+    "file": "JBGS25000005706.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "397": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "398": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "399": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "400": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "401": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "402": {
+    "file": "JBGS25000005921.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "403": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "404": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "405": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "406": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "407": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "408": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "409": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "410": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "411": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "412": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "413": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "414": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "415": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "416": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 13,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "417": {
+    "file": "JBGS25000002122.csv",
+    "sample_in_file": 14,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "418": {
+    "file": "JBGS25000008130.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "419": {
+    "file": "JBGS25000008130.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "420": {
+    "file": "JBGS25000008130.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "421": {
+    "file": "JBGS25000008130.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "422": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "423": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "424": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "425": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "426": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "427": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "428": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "429": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "430": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "431": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "432": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 10,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "433": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 11,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "434": {
+    "file": "JBGS25000007154.csv",
+    "sample_in_file": 12,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "435": {
+    "file": "JBGS25000008429.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "436": {
+    "file": "JBGS25000008429.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "437": {
+    "file": "JBGS25000008429.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "438": {
+    "file": "JBGS25000008429.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "439": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "440": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "441": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "442": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "443": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "444": {
+    "file": "JBGS25000008680.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "445": {
+    "file": "JBGS25000008903.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "446": {
+    "file": "JBGS25000008903.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "447": {
+    "file": "JBGS25000008903.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "448": {
+    "file": "JBGS25000008903.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "449": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 0,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "450": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 1,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "451": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 2,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "452": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 3,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "453": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 4,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "454": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 5,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "455": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 6,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "456": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 7,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "457": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 8,
+    "label": "0",
+    "is_abnormal": false
+  },
+  "458": {
+    "file": "JBGS25000007711.csv",
+    "sample_in_file": 9,
+    "label": "0",
+    "is_abnormal": false
+  }
+}
