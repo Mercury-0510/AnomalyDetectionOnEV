@@ -28,11 +28,17 @@ JBGS25000008795
 ```
 将 CSV 格式的待预测电动汽车数据放入 `./all_datasets/predict_datasets` 文件夹  
 系统支持以下通道(若其他数据完整可做拓展)：
+- `SUM_MILE_AGE`：里程数
+- `SPEED`：速度
 - `SUM_VOLTAGE`: 总电压
 - `SUM_CURRENT`: 总电流  
 - `SOC`: 电池荷电状态
+- `MAX_TEMP`：最高温度
+- `MIN_TEMP`：最低温度
 - `U_SD`: 单体电压标准差（自动计算）
 - `T_SD`: 温度标准差（自动计算）
+- `U_diff`: 单体电压步差（自动计算）
+- `T_diff`: 温度步差（自动计算）
 
 ### 3. 数据处理及转化
 ```bash
